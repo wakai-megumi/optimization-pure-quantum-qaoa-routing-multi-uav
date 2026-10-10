@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper and this archive."
+title: "Code for: Quantum-Enhanced Multi-Objective Route Planning for UAV Swarms under SORA Airspace Risk and Environmental Constraints"
+authors:
+  - family-names: Sharma
+    given-names: Tarun
+  - family-names: Rawat
+    given-names: Keshav Singh
+license: MIT
+repository-code: "https://github.com/wakai-megumi/optimization"
+version: "1.0.0"
+date-released: "2026-10-10"
