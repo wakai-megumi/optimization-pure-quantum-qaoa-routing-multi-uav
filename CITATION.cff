@@ -7,6 +7,7 @@ authors:
   - family-names: Rawat
     given-names: Keshav Singh
 license: MIT
-repository-code: "https://github.com/wakai-megumi/optimization"
+repository-code: "https://github.com/wakai-megumi/optimization-pure-quantum-qaoa-routing-multi-uav"
 version: "1.0.0"
 date-released: "2026-10-10"
+doi: 10.5281/zenodo.23281112

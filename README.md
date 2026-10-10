@@ -73,7 +73,10 @@ Statevector simulation needs 2^n complex amplitudes. The budget-augmented and jo
 
 ## Citation
 
-See `CITATION.cff`. Please cite the paper and the Zenodo archive (DOI to be added after release).
+
+See `CITATION.cff`. Please cite the paper and the Zenodo archive.
+
+Archived on Zenodo: https://doi.org/10.5281/zenodo.23281112
 
 ## License
 
